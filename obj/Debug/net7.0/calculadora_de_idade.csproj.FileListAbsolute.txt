@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\bin\Debug\net7.0\calculadora_de_idade.exe
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\bin\Debug\net7.0\calculadora_de_idade.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\bin\Debug\net7.0\calculadora_de_idade.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\bin\Debug\net7.0\calculadora_de_idade.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\bin\Debug\net7.0\calculadora_de_idade.pdb
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\refint\calculadora_de_idade.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.pdb
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\calculadora_de_idade.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_idade\obj\Debug\net7.0\ref\calculadora_de_idade.dll

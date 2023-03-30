@@ -1,0 +1,6 @@
+Faça um programa que receba o ano do nascimento de uma pessoa e calcule a idade dessa pessoa em anos
+e semanas e imprima o resultado no console.
+
+Observação: obter a data atual do sistema (Pesquisar na documentação)
+
+Entregue o link do github com seu repositório.
